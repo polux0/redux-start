@@ -11,6 +11,7 @@ const App =() => {
                 <div className="ui row">
                     <div className="column eight wide">
                         <SongList />
+                        <p> ALOHAAAAAAAAAAAAAAAAAAAAAAA ></p>
                     </div>
                     <div className="column eight wide">
                         <SongDetail />
@@ -20,6 +21,5 @@ const App =() => {
         </div>
     );
 }
-
 export default App;
 
